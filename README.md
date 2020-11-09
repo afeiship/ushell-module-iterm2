@@ -3,5 +3,5 @@
 
 ## installation
 ```shell
-npm i -S @feizheng/ushell-module-iterm2
+npm i -S @jswork/ushell-module-iterm2
 ```

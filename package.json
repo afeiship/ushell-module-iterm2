@@ -1,5 +1,5 @@
 {
-  "name": "@feizheng/ushell-module-iterm2",
+  "name": "@jswork/ushell-module-iterm2",
   "version": "1.0.0",
   "description": "Unix like shell module for iterm2.",
   "main": "index.sh",
@@ -9,10 +9,8 @@
   },
   "keywords": [
     "ushell",
-    "unix",
-    "shell",
-    "system",
-    "infomation"
+    "iterm2",
+    "terminal"
   ],
   "author": "afei",
   "license": "MIT",
